@@ -5,6 +5,6 @@ export class AppController {
 
   @Get()
   getHello() {
-    return 'Gateway working fine........';
+    return 'Hey hi! gateway here..';
   }
 }
